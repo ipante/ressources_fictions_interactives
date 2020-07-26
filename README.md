@@ -44,11 +44,11 @@
 
 ### Ressources Inkle
 
-* [Télécharger Ink et InkJS](https://github.com/inkle/inky/releases/tag/0.11.0)
+* [Télécharger Inky](https://github.com/inkle/inky/releases/tag/0.11.0)
 * [Accès au service InkleWriter](https://www.inklestudios.com/inklewriter/)
-* [Un tutoriel d'initiation à Ink](https://www.inklestudios.com/ink/web-tutorial/)
-* [Documentation complète de Ink](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
-* [La page Patreon de Inkle, pour quelques astuces supplémentaires](https://www.patreon.com/inkle)
+* [Un tutoriel d'initiation à Ink et Inky](https://www.inklestudios.com/ink/web-tutorial/)
+* [Documentation complète du langage Ink](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
+* [La page Patreon de Inkle (avancé)](https://www.patreon.com/inkle)
 
 ### Ressources Twine 2
 
