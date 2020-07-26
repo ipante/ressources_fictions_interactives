@@ -28,6 +28,7 @@
 * [Her story](http://www.herstorygame.com/) : exploration de BDD par mots-clef
 * [Telling lies](http://tellingliesgame.com/) : exploration de BDD par mots-clef
 * [Enterre-moi mon amour](http://enterremoimonamour.arte.tv/) : ressentir la migration syrienne
+* [Fighting Fantasy: Appointment with F.E.A.R.](https://www.youtube.com/watch?v=-iJhBTK3q-o) : portage réussi d'un LDVH
 
 ### Annuaires de fictions interactives
 
