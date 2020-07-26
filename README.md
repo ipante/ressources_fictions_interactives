@@ -43,6 +43,11 @@
 * [Présentation de l'art télématique](https://www.digitalmcd.com/art-telematique/)
 * [Exposition les immatériaux](http://catalogueexpositions.referata.com/wiki/Les_Immat%C3%A9riaux (1982/1981))
 
+### Ressources Twine 2
+
+* [Accès au site/logiciel Twine 2](https://twinery.org/)
+* [Tutoriels vidéo de Twine 2](https://www.youtube.com/watch?v=iKFZhIHD7Xk&list=PLklITFhXtPCCKadv-0Gcbqoj3OCev695D)
+
 ### Ressources Inkle
 
 * [Télécharger Inky](https://github.com/inkle/inky/releases/tag/0.11.0)
@@ -50,11 +55,6 @@
 * [Un tutoriel d'initiation à Ink et Inky](https://www.inklestudios.com/ink/web-tutorial/)
 * [Documentation complète du langage Ink](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
 * [La page Patreon de Inkle (avancé)](https://www.patreon.com/inkle)
-
-### Ressources Twine 2
-
-* [Accès au site/logiciel Twine 2](https://twinery.org/)
-* [Tutoriels vidéo de Twine 2](https://www.youtube.com/watch?v=iKFZhIHD7Xk&list=PLklITFhXtPCCKadv-0Gcbqoj3OCev695D)
 
 ### Ouvrages de recherche en humanités numériques
 
