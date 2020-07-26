@@ -59,4 +59,5 @@
 ### Ouvrages de recherche en humanités numériques
 
 * Aaarseth, Espen J. (1997). Cybertext: Perspectives on Ergodic Literature. Johns Hopkins UP.
+* Murray, Janet H. (2017, 1997 pour l'édition originale). [Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace (The MIT Press)](https://www.amazon.fr/Hamlet-Holodeck-Future-Narrative-Cyberspace/dp/0262533480)
 * Montfort, Nick (2003). Twisty Little Passages: An Approach to Interactive Fiction. Cambridge, MA: MIT Press
