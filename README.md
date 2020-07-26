@@ -52,7 +52,8 @@
 
 ### Ressources Twine 2
 
-* [Tutoriels Twine](https://www.youtube.com/watch?v=iKFZhIHD7Xk&list=PLklITFhXtPCCKadv-0Gcbqoj3OCev695D)
+* [Accès au site/logiciel Twine 2](https://twinery.org/)
+* [Tutoriels vidéo de Twine 2](https://www.youtube.com/watch?v=iKFZhIHD7Xk&list=PLklITFhXtPCCKadv-0Gcbqoj3OCev695D)
 
 ### Ouvrages de recherche en humanités numériques
 
