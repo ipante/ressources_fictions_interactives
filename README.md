@@ -1,4 +1,4 @@
-![Trois exemples de littérature ergodique](https://imgur.com/a/hOOidem)
+![Trois exemples de littérature ergodique](https://imgur.com/BcP8gpO)
 
 # FORMATION CONTINUE EN ECRITURES NUMERIQUES
 
