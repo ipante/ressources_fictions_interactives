@@ -28,11 +28,12 @@
 * [Her story](http://www.herstorygame.com/) : exploration de BDD par mots-clef
 * [Telling lies](http://tellingliesgame.com/) : exploration de BDD par mots-clef
 * [Enterre-moi mon amour](http://enterremoimonamour.arte.tv/) : ressentir la migration syrienne
-* [Fighting Fantasy: Appointment with F.E.A.R.](https://www.youtube.com/watch?v=-iJhBTK3q-o) : portage réussi d'un LDVH
+* [Fighting Fantasy: Appointment with F.E.A.R.](https://www.youtube.com/watch?v=-iJhBTK3q-o) : portage réussi d'un LDVELH
 
 ### Annuaires de fictions interactives
 
 * [Liste et critiques de fictions interactives (en anglais)](https://gamebooks.org/)
+* [Liste et critiques de fictions interactives (en français)](http://planete-ldvelh.com/)
 * [Liste de visual novels](https://itch.io/games/genre-visual-novel)
 * [Liste de fictions interactives](https://itch.io/games/tag-interactive-fiction)
 
