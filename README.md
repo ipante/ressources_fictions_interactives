@@ -44,7 +44,11 @@
 
 ### Ressources Inkle
 
-* [La page Patreon de Inkle](https://www.patreon.com/inkle)
+* [Télécharger Ink et InkJS](https://github.com/inkle/inky/releases/tag/0.11.0)
+* [Accès au service InkleWriter](https://www.inklestudios.com/inklewriter/)
+* [Un tutoriel d'initiation à Ink](https://www.inklestudios.com/ink/web-tutorial/)
+* [Documentation complète de Ink](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
+* [La page Patreon de Inkle, pour quelques astuces supplémentaires](https://www.patreon.com/inkle)
 
 ### Ressources Twine 2
 
