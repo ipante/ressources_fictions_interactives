@@ -54,7 +54,7 @@
 
 * [Tutoriels Twine](https://www.youtube.com/watch?v=iKFZhIHD7Xk&list=PLklITFhXtPCCKadv-0Gcbqoj3OCev695D)
 
-### Ouvrages en humanités numériques
+### Ouvrages de recherche en humanités numériques
 
 * Aaarseth, Espen J. (1997). Cybertext: Perspectives on Ergodic Literature. Johns Hopkins UP.
 * Montfort, Nick (2003). Twisty Little Passages: An Approach to Interactive Fiction. Cambridge, MA: MIT Press
