@@ -24,8 +24,10 @@
 
 ### Fictions interactives remarquables
 
+* [Lifeline](https://lifelinegame.fandom.com/wiki/Lifeline_(Series)) : narration par notification
 * [Her story](http://www.herstorygame.com/) : exploration de BDD par mots-clef
 * [Telling lies](http://tellingliesgame.com/) : exploration de BDD par mots-clef
+* [Enterre-moi mon amour](http://enterremoimonamour.arte.tv/) : ressentir la migration syrienne
 
 ### Annuaires de fictions interactives
 
