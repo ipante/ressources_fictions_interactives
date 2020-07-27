@@ -34,14 +34,8 @@
 
 * [Liste et critiques de fictions interactives (en anglais)](https://gamebooks.org/)
 * [Liste et critiques de fictions interactives (en français)](http://planete-ldvelh.com/)
-* [Liste de visual novels](https://itch.io/games/genre-visual-novel)
-* [Liste de fictions interactives](https://itch.io/games/tag-interactive-fiction)
-
-### Documentation en art télématique
-
-* [Art télématique, ASCOO](https://art-et-reseaux.fr/romans-telematiques-1983-85-ascoo-vertiges-l-objet-perdu/)
-* [Présentation de l'art télématique](https://www.digitalmcd.com/art-telematique/)
-* [Exposition les immatériaux](http://catalogueexpositions.referata.com/wiki/Les_Immat%C3%A9riaux (1982/1981))
+* [Exemples de visual novels sur itch.io](https://itch.io/games/genre-visual-novel)
+* [Exemples de fictions interactives sur itch.io](https://itch.io/games/tag-interactive-fiction)
 
 ### Ressources Twine 2
 
@@ -55,6 +49,12 @@
 * [Un tutoriel d'initiation à Ink et Inky](https://www.inklestudios.com/ink/web-tutorial/)
 * [Documentation complète du langage Ink](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
 * [La page Patreon de Inkle (avancé)](https://www.patreon.com/inkle)
+
+### Documentation en art télématique
+
+* [Art télématique, ASCOO](https://art-et-reseaux.fr/romans-telematiques-1983-85-ascoo-vertiges-l-objet-perdu/)
+* [Présentation de l'art télématique](https://www.digitalmcd.com/art-telematique/)
+* [Exposition les immatériaux](http://catalogueexpositions.referata.com/wiki/Les_Immat%C3%A9riaux (1982/1981))
 
 ### Ouvrages de recherche en humanités numériques
 
