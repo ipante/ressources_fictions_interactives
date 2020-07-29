@@ -7,8 +7,9 @@
 ### Moteurs de développement
 
 * [Twine 2](https://twinery.org/2/) : moteur de développement de récits interactifs. Twine 2 est disponible en version logicielle et sous forme de webservice. Facile d'accès, il offre aussi des possibilités de scriptage avancé via du Javascript.
-* [Inky](https://www.inklestudios.com/ink/) : Puissant outil de fiction interactive textuelle exploitant le langage ink. Autorise des exportations web et JSON.
+* [Inky & InkleWriter](https://www.inklestudios.com/ink/) : Puissant outil de fiction interactive textuelle exploitant le langage ink. Autorise des exportations web et JSON.
 * [Monogatari](https://monogatari.io/) : moteur de développement de visual novels. Facilite la prise en charge des dialogues et l'affichage des différentes scènes. Facile d'accès, il offre des possibilités d'animation et de scriptage avancés via du CSS et du Javascript.
+* [Fungus](https://fungusgames.com/) : Librairie Unity 3D pour le développement de fictions interactives à partir de flowcharts.
 
 ### Précurseurs littéraires
 
