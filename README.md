@@ -2,7 +2,7 @@
 
 # FORMATION CONTINUE EN ÉCRITURES NUMÉRIQUES
 
-*Ce matériel est rassemblé par (Isaac Pante)[https://www.unil.ch/sli/fr/home/menuinst/collaborateurtrices/pante-isaac.html], Maître d'enseignement et de recherche en culture et édition numérique à l'UNIL. Il est mis à disposition dans le cadre de la formation continue ("Ecritures numériques")[https://www.formation-continue-unil-epfl.ch/formation/ecritures-numeriques/] dispensée par la Formation continue UNIL-EPFL. Cet annuaire de ressources ne demande qu'à s'agrandir! Merci d'écrire à (Isaac Pante)[mailto:isaac.pante@unil.ch] pour toute suggestion.*
+*Ce matériel est rassemblé par [Isaac Pante](https://www.unil.ch/sli/fr/home/menuinst/collaborateurtrices/pante-isaac.html), Maître d'enseignement et de recherche en culture et édition numérique à l'UNIL. Il est mis à disposition dans le cadre de la formation continue ["Ecritures numériques"](https://www.formation-continue-unil-epfl.ch/formation/ecritures-numeriques/) dispensée par la Formation continue UNIL-EPFL. Cet annuaire de ressources ne demande qu'à s'agrandir! Merci d'écrire à [Isaac Pante](mailto:isaac.pante@unil.ch) pour toute suggestion.*
 
 ## RÉFÉRENCES BIBLIOGRAPHIQUES
 
