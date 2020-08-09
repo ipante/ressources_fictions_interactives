@@ -34,7 +34,7 @@
 * [Fighting Fantasy: Appointment with F.E.A.R.](https://www.youtube.com/watch?v=-iJhBTK3q-o) : portage réussi d'un LDVELH
 * [Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror%3A_Bandersnatch) : l'épisode interactif de Black Mirror
 
-### Inspirations en vue de la didactique
+### Inspirations didactiques
 
 * Philosophie : un dialogue socratique? [Basilisk](https://sketchylogic.itch.io/the-basilisk-dialogue) montre une manière de le faire.
 
