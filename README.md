@@ -42,6 +42,7 @@
 * [Liste et critiques de fictions interactives (en français)](http://planete-ldvelh.com/)
 * [Exemples de visual novels sur itch.io](https://itch.io/games/genre-visual-novel)
 * [Exemples de fictions interactives sur itch.io](https://itch.io/games/tag-interactive-fiction)
+* [Exemples de fictions interactives sur textadventures.co.uk](http://textadventures.co.uk/)
 
 ### Ressources Twine 2
 
@@ -67,3 +68,7 @@
 * Aaarseth, Espen J. (1997). Cybertext: Perspectives on Ergodic Literature. Johns Hopkins UP.
 * Murray, Janet H. (2017, 1997 pour l'édition originale). [Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace (The MIT Press)](https://www.amazon.fr/Hamlet-Holodeck-Future-Narrative-Cyberspace/dp/0262533480)
 * Montfort, Nick (2003). Twisty Little Passages: An Approach to Interactive Fiction. Cambridge, MA: MIT Press
+
+### Autres ressources
+
+* [Visual Novel Engine](https://store.steampowered.com/app/665040/Visual_Novel_Engine/) : Logiciel Steam gratuit en développement
