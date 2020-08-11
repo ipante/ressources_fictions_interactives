@@ -72,6 +72,7 @@
 * Aaarseth, Espen J. (1997). Cybertext: Perspectives on Ergodic Literature. Johns Hopkins UP.
 * Murray, Janet H. (2017, 1997 pour l'édition originale). [Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace (The MIT Press)](https://www.amazon.fr/Hamlet-Holodeck-Future-Narrative-Cyberspace/dp/0262533480)
 * Montfort, Nick (2003). Twisty Little Passages: An Approach to Interactive Fiction. Cambridge, MA: MIT Press
+* Cardona-Rivera, Sullivan, Young. [Interactive storytelling](https://link.springer.com/book/10.1007%2F978-3-030-33894-7)(Lecture Notes in Computer Science 11869, Proceedings of the Interactive Storytelling_ 12th International Conference on Interactive Digital Storytelling, ICID)
 
 #### Conférences, colloques
 
