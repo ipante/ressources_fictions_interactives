@@ -65,11 +65,21 @@
 * [Présentation de l'art télématique](https://www.digitalmcd.com/art-telematique/)
 * [Exposition les immatériaux](http://catalogueexpositions.referata.com/wiki/Les_Immat%C3%A9riaux (1982/1981))
 
-### Ouvrages de recherche en humanités numériques
+### Recherche en humanités numériques
+
+#### Ouvrages
 
 * Aaarseth, Espen J. (1997). Cybertext: Perspectives on Ergodic Literature. Johns Hopkins UP.
 * Murray, Janet H. (2017, 1997 pour l'édition originale). [Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace (The MIT Press)](https://www.amazon.fr/Hamlet-Holodeck-Future-Narrative-Cyberspace/dp/0262533480)
 * Montfort, Nick (2003). Twisty Little Passages: An Approach to Interactive Fiction. Cambridge, MA: MIT Press
+
+#### Conférences, colloques
+
+* [International Conference on Interactive Digital Storytelling](http://ardin.online/conferences/icids-interactive-storytelling/)
+
+#### Exemple d'analyse de réseau
+
+* [Analyse de Burn-out]()
 
 ### Autres ressources
 
