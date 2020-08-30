@@ -40,6 +40,7 @@
 
 ### Annuaires de fictions interactives
 
+* [Littéraction : site de fictions interactives contemporaines](http://litteraction.fr/)
 * [Liste et critiques de fictions interactives (en anglais)](https://gamebooks.org/)
 * [Liste et critiques de fictions interactives (en français)](http://planete-ldvelh.com/)
 * [Exemples de visual novels sur itch.io](https://itch.io/games/genre-visual-novel)
@@ -77,6 +78,7 @@
 #### Conférences, colloques
 
 * [International Conference on Interactive Digital Storytelling](http://ardin.online/conferences/icids-interactive-storytelling/)
+* [Un coup de dé jamais n'abolira la lecture, Matthieu Freyheit](https://www.youtube.com/watch?v=PcoI77_qogw)
 
 #### Exemple d'analyse de réseau
 
