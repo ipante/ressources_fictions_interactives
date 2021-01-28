@@ -25,7 +25,7 @@
 * Marelle, Julio Cortazar, 1963
 * Un conte à votre façon, Raymond Queneau, 1967
 
-### Fictions interactives remarquables
+### Fictions interactives digitales remarquables
 
 * [Lifeline](https://lifelinegame.fandom.com/wiki/Lifeline_(Series)) : narration par notification
 * [Her story](http://www.herstorygame.com/) : exploration de BDD par mots-clef
@@ -66,7 +66,7 @@
 * [Présentation de l'art télématique](https://www.digitalmcd.com/art-telematique/)
 * [Exposition les immatériaux](http://catalogueexpositions.referata.com/wiki/Les_Immat%C3%A9riaux (1982/1981))
 
-### Recherche en humanités numériques
+### Sélection de recherche en littérature / humanités numériques
 
 #### Ouvrages
 
@@ -75,14 +75,18 @@
 * Montfort, Nick (2003). Twisty Little Passages: An Approach to Interactive Fiction. Cambridge, MA: MIT Press
 * Cardona-Rivera, Sullivan, Young. [Interactive storytelling](https://link.springer.com/book/10.1007%2F978-3-030-33894-7)(Lecture Notes in Computer Science 11869, Proceedings of the Interactive Storytelling 12th International Conference on Interactive Digital Storytelling, ICID)
 
+#### Articles
+
+* [En mode shuffle, réflexion sur la littérature non linéaire](https://www.publie.net/2015/09/23/en-mode-shuffle-reflexion-sur-la-litterature-non-lineaire/)
+
 #### Conférences, colloques
 
 * [International Conference on Interactive Digital Storytelling](http://ardin.online/conferences/icids-interactive-storytelling/)
 * [Un coup de dé jamais n'abolira la lecture, Matthieu Freyheit](https://www.youtube.com/watch?v=PcoI77_qogw)
 
-#### Exemple d'analyse de réseau
+#### Le labyrinthe et sa carte
 
-* [Analyse de Burn-out]()
+* [Le labyrinthe et sa carte](https://isaacpante.net/if) est un projet de visualisation de fictions interactives. Développé en d3.js, il propose d'explorer un corpus de textes s'étendant de 1930 à aujourd'hui.
 
 ### Autres ressources
 
