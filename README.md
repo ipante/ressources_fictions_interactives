@@ -86,7 +86,7 @@
 
 #### Le labyrinthe et sa carte
 
-* [Le labyrinthe et sa carte](https://isaacpante.net/if) est un projet de visualisation de fictions interactives. Développé en d3.js, il propose d'explorer un corpus de textes s'étendant de 1930 à aujourd'hui.
+* A VENIR : "Le labyrinthe et sa carte" est un projet de visualisation de fictions interactives. Développé en d3.js, il propose d'explorer un corpus de textes s'étendant de 1930 à aujourd'hui.
 
 ### Autres ressources
 
