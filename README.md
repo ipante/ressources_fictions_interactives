@@ -8,6 +8,7 @@
 
 * [Le plan et les ressources](https://share.mindmanager.com/#publish/-ZPAXQnmrLui3CGXNxjRBtAR7mfvmjVXH-DAVEe4) de cette édition 
 * [Le lien Zoom](https://unil.zoom.us/j/3169234317)
+* [Ressources en direct](https://app.simplenote.com/p/rbTvFY)
 
 ## RÉFÉRENCES BIBLIOGRAPHIQUES
 
