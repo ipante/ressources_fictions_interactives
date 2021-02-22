@@ -43,6 +43,7 @@
 ### Inspirations didactiques
 
 * Philosophie : un dialogue socratique? [Basilisk](https://sketchylogic.itch.io/the-basilisk-dialogue) montre une manière de le faire.
+* [Depression Quest](http://www.depressionquest.com/dqfinal.html) : un exemple de médiation sur la thématique de la dépression.
 
 ### Annuaires de fictions interactives
 
