@@ -90,6 +90,7 @@
 #### Articles
 
 * [En mode shuffle, réflexion sur la littérature non linéaire](https://www.publie.net/2015/09/23/en-mode-shuffle-reflexion-sur-la-litterature-non-lineaire/)
+* [Graphing Branching Narratives](https://docs.google.com/document/d/1LVA7au0Z1Z4-qiRy77yib8lmeL7rjeIp1V3lPaaUYbo/edit)
 
 #### Conférences, colloques
 
