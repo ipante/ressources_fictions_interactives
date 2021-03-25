@@ -31,6 +31,10 @@
 * Marelle, Julio Cortazar, 1963
 * Un conte à votre façon, Raymond Queneau, 1967
 
+### La fiction interactive comme poïesis
+
+* [Ariane, de Raphaël Baroni](https://www.place-plateforme.com/place3/raphael-baroni-ariane.html)
+
 ### Fictions interactives digitales remarquables
 
 * [Lifeline](https://lifelinegame.fandom.com/wiki/Lifeline_(Series)) : narration par notification
